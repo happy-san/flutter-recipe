@@ -22,6 +22,6 @@ Use the following command to generate the mock files before running tests:
 [pub]: https://pub.dev/packages/typesense
 [recipe-search]: https://recipe-search.typesense.org
 [codemagic]: https://flutterci.com/
-[hello-world]: https://api.codemagic.io/apps/60f461de0c5097d1ca736815/hello-world/status_badge.svg
-[latest-build]: https://codemagic.io/apps/60f461de0c5097d1ca736815/60f461de0c5097d1ca736814/latest_build
+[hello-world]: https://api.codemagic.io/apps/60f461de0c5097d1ca736815/test/status_badge.svg
+[latest-build]: https://codemagic.io/apps/60f461de0c5097d1ca736815/test/latest_build
 [discuss]: https://github.com/happy-trains/flutter-recipe/discussions
